@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+.venv/
+.env
+logs/
+pw-profile/
+playwright-report/
+test-results/
+.vscode/
+.DS_Store
+pdf/
