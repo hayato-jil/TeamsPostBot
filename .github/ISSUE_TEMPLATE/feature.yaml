@@ -1,0 +1,9 @@
+﻿name: Feature request
+about: 機能要望
+title: "[Feat] "
+labels: enhancement
+body:
+  - type: textarea
+    attributes: { label: 要望, description: 何を実現したいか }
+  - type: textarea
+    attributes: { label: 受け入れ基準, description: 成功判定フレーズ等 }

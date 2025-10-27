@@ -1,0 +1,11 @@
+﻿name: Bug report
+about: 不具合の報告
+title: "[Bug] "
+labels: bug
+body:
+  - type: textarea
+    attributes: { label: 事象, description: 何が起きたか }
+  - type: textarea
+    attributes: { label: 再現手順, description: 実行コマンド/画面/ログ }
+  - type: textarea
+    attributes: { label: 期待する動作 }
