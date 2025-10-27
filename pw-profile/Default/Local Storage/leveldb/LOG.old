@@ -1,0 +1,10 @@
+2025/10/23-18:51:39.343 5aac Reusing MANIFEST C:\TeamsPostBot\pw-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/10/23-18:51:39.347 5aac Recovering log #413
+2025/10/23-18:51:39.347 5aac Level-0 table #416: started
+2025/10/23-18:51:39.351 5aac Level-0 table #416: 51310 bytes OK
+2025/10/23-18:51:39.356 5aac Delete type=0 #413
+2025/10/23-18:51:45.146 5aac Level-0 table #419: started
+2025/10/23-18:51:45.153 5aac Level-0 table #419: 40714 bytes OK
+2025/10/23-18:51:45.158 5aac Delete type=0 #417
+2025/10/23-18:53:05.893 5aac Level-0 table #421: started
+2025/10/23-18:53:05.922 5aac Level-0 table #421: 55653 bytes OK

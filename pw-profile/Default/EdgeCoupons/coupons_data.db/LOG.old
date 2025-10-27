@@ -1,0 +1,11 @@
+2025/10/23-18:51:45.638 4684 Reusing MANIFEST C:\TeamsPostBot\pw-profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/10/23-18:51:45.640 4684 Recovering log #244
+2025/10/23-18:51:45.641 4684 Level-0 table #247: started
+2025/10/23-18:51:45.674 4684 Level-0 table #247: 672419 bytes OK
+2025/10/23-18:51:45.676 4684 Recovering log #247
+2025/10/23-18:51:45.676 4684 Reusing old log C:\TeamsPostBot\pw-profile\Default\EdgeCoupons/coupons_data.db/000247.log 
+2025/10/23-18:51:45.684 4684 Delete type=0 #244
+2025/10/23-18:51:45.684 4684 Delete type=2 #248
+2025/10/23-18:51:45.961 4e88 Level-0 table #249: started
+2025/10/23-18:51:45.965 4e88 Level-0 table #249: 672408 bytes OK
+2025/10/23-18:51:45.969 4e88 Delete type=0 #247

@@ -1,0 +1,21 @@
+2025/10/23-19:02:57.921 4084 Reusing MANIFEST C:\TeamsPostBot\pw-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/10/23-19:02:57.925 4084 Recovering log #418
+2025/10/23-19:02:57.925 4084 Level-0 table #421: started
+2025/10/23-19:02:57.930 4084 Level-0 table #421: 55653 bytes OK
+2025/10/23-19:02:57.930 4084 Recovering log #420
+2025/10/23-19:02:57.931 4084 Reusing old log C:\TeamsPostBot\pw-profile\Default\Local Storage\leveldb/000420.log 
+2025/10/23-19:02:57.935 4084 Delete type=0 #418
+2025/10/23-19:02:57.935 4c54 Compacting 4@0 + 1@1 files
+2025/10/23-19:02:57.943 4c54 Generated table #422@0: 429 keys, 314144 bytes
+2025/10/23-19:02:57.943 4c54 Compacted 4@0 + 1@1 files => 314144 bytes
+2025/10/23-19:02:57.945 4c54 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/23-19:02:57.947 4c54 Delete type=2 #412
+2025/10/23-19:02:57.947 4c54 Delete type=2 #414
+2025/10/23-19:02:57.947 4c54 Delete type=2 #416
+2025/10/23-19:02:57.947 4c54 Delete type=2 #419
+2025/10/23-19:02:57.947 4c54 Delete type=2 #421
+2025/10/23-19:03:03.653 4c54 Level-0 table #424: started
+2025/10/23-19:03:03.657 4c54 Level-0 table #424: 60262 bytes OK
+2025/10/23-19:03:03.661 4c54 Delete type=0 #420
+2025/10/23-19:04:15.875 4084 Level-0 table #426: started
+2025/10/23-19:04:15.923 4084 Level-0 table #426: 39271 bytes OK

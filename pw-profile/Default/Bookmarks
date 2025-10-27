@@ -1,0 +1,126 @@
+{
+   "checksum": "084114f2d8421115bab84330689928cc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13290265666487897",
+            "date_last_used": "0",
+            "guid": "2b0d0963-cecc-4111-b574-806b1de38aab",
+            "id": "9",
+            "name": "LastPass",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.lastpass.com/hpwelcome",
+            "visit_count": 0
+         }, {
+            "date_added": "13290265666488894",
+            "date_last_used": "0",
+            "guid": "594c1522-240d-4d5e-b5fc-94e0f75ecb4e",
+            "id": "10",
+            "name": "通販",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.amazon.jp/gp/bit/amazonbookmark.html?tag=hp2-desktop-jp-22&partner=HP",
+            "visit_count": 0
+         }, {
+            "children": [ {
+               "date_added": "13315945042006544",
+               "date_last_used": "0",
+               "guid": "ba7d4b72-21cf-466c-864c-6cd53eb1e194",
+               "id": "12",
+               "name": "Dell",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www1.jp.dell.com/content/default.aspx?c=jp&l=ja&s=gen",
+               "visit_count": 0
+            }, {
+               "date_added": "13315945042012508",
+               "date_last_used": "0",
+               "guid": "921df0b5-9719-437d-98be-f9ee5396bf98",
+               "id": "13",
+               "name": "Support.Dell.Com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.dell.com/support/home",
+               "visit_count": 0
+            } ],
+            "date_added": "13315999370980234",
+            "date_last_used": "0",
+            "date_modified": "13315999370980234",
+            "guid": "86035166-d34a-47ef-8460-4007617767b1",
+            "id": "11",
+            "name": "Dell",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13405147457627937",
+         "date_last_used": "0",
+         "date_modified": "13290265666488894",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "お気に入りバー",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13290265666486942",
+               "date_last_used": "0",
+               "guid": "8d25360f-fbef-4413-94e8-a99962a3a61d",
+               "id": "7",
+               "name": "LastPass",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.lastpass.com/hpwelcome",
+               "visit_count": 0
+            }, {
+               "date_added": "13290265666487032",
+               "date_last_used": "0",
+               "guid": "6d79e6d5-6c8e-46b3-895d-0f8c54a0b70a",
+               "id": "8",
+               "name": "通販",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.amazon.jp/gp/bit/amazonbookmark.html?tag=hp2-desktop-jp-22&partner=HP",
+               "visit_count": 0
+            } ],
+            "date_added": "13312977168274745",
+            "date_last_used": "0",
+            "date_modified": "13312977168274745",
+            "guid": "8c024f8d-6e2a-4f8a-9c99-3b39db6e50b0",
+            "id": "6",
+            "name": "HP",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13405147457627937",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "その他のお気に入り",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13405147457627937",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "モバイルのお気に入り",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCOznVvCZAQAAKg4QABgBIAAoBjAAOABAABIAKhhwdHk3WGtZYkE0UmYzYS9TTFRHNHdnPT1IA6AGDBKtAQgLEqgBChxsekM1VlNUSHZFbjl4MlphVnFLMkM2TXpPTGc9EiQ4NjAzNTE2Ni1kMzRhLTQ3ZWYtODQ2MC00MDA3NjE3NzY3YjEYACAAKAAwvtrM9dIwOJnbzPXSMECZ28z10jBKHFBqL1VpbWdzMDdreTR6MGNkcVRDQW5FVXhBUT1aHyIdokN6Q1lGWFd6cXNNaGt6cFNpczJwTFowanBjMD1lAAAAAMI+AmAAEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDMyMjA0NjVhLWIwMjMtNWMyZi04N2Y5LTQ2NjgzYzExYjZhNhgAIAAoADChlb+Eki846tuS8+svQOrbkvPrL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKsAQgKEqcBChxFUG5jQUJ1VzB2N3ZJbXpjQnlxOUNjL1NaNjg9EiQ1OTRjMTUyMi0yNDBkLTRkNWUtYjVmYy05NGUwZjc1ZWNiNGUYACAAKAAw04fA1McwOOqLwNTHMEDqi8DUxzBKHENuYzRHVi92SFhDSTlkUWFqUkpFS3ZOZVErUT1aHiIcRWhBeUsyQmUyS09wUUM1SkdxRHBFM2hNZ1A0PWUAAAAAwj4CYAUSrAEIBxKnAQocc1Z0MEQrT0VhVm5oOE14MHh0KzRGVHBKSUpBPRIkOGQyNTM2MGYtZmJlZi00NDEzLTk0ZTgtYTk5OTYyYTNhNjFkGAAgACgAMNGHwNTHMDjEiMDUxzBAxIjA1McwShw3MDRqZmozYytaNDhvQXVFelppZEtmRGlxdFE9Wh4iHHdSa2tjZ3Nud3Zwa2VjYnAvRElHb1dsd1AyOD1lAAAAAMI+AmAFEq0BCA0SqAEKHEk1RmJLYmJaUXhuLzdhRitiVEJMeWxWSmtlTT0SJDkyMWRmMGI1LTk3MTktNDM3ZC05OGJlLWY5ZWU1Mzk2YmY5OBgAIAAoADDA2sz10jA499vM9dIwQPfbzPXSMEocekkzSllxeXdDUkhrYjFsNlVwcUkwTjJDTEpVPVofIh2nS1Rvb2pOOGxRWFhJZmt3Zkh0SVgraUw0TnV3PWUAAAAAwj4CYAUSrAEIDBKnAQocRkRVanZLbGFkR1hPbm1QOHVQNDRacHZobzZjPRIkYmE3ZDRiNzItMjFjZi00NjZjLTg2NGMtNmNkNTNlYjFlMTk0GAAgACgAML/azPXSMDjY28z10jBA2NvM9dIwShxHSTBjRkQrTHd5cFFtT0Y0cFd1aUc1NVpRWkk9Wh4iHE9xVm1zaFU2QTdKaWpMVkw5aWQyNGRaUXBOND1lAAAAAMI+AmAFEqwBCAYSpwEKHEQybTJReThkUVhvdnZYejcxaFhja2JYZnk4MD0SJDhjMDI0ZjhkLTZlMmEtNGY4YS05Yzk5LTNiMzlkYjZlNTBiMBgAIAAoADDQh8DUxzA4lYjA1McwQJWIwNTHMEocL1J3blBWa251cGFNVkh4V1ZXcnhKQnordTV3PVoeIhx5eCtRZ0FMOEFnTjB3ZjJhV0QyN1I3ektPZGs9ZQAAAADCPgJgABKsAQgJEqcBChxyTW9PYU5tSUNIdUlCODE0Y1pYVjZDaU1MTms9EiQyYjBkMDk2My1jZWNjLTQxMTEtYjU3NC04MDZiMWRlMzhhYWIYACAAKAAwz4fA1McwOPaHwNTHMED2h8DUxzBKHERyMkRPYzJCc1VJQW9wMlpHSzlrcFdUV2hwST1aHiIcRTR4b1hVT3gxYkVpTDUzc28wdXlZNGFxSUd3PWUAAAAAwj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkYzJmZDlhNDktZDYwNC01YzBmLTk2ZGItYmRjOWJlMzJmYTE2GAAgACgAMKGVv4SSLzi53JLz6y9AudyS8+svShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDNhODM2MjcwLWYzZDktNTM2ZC05YjQyLWQ1NWJlOTU1NzM0ORgAIAAoADChlb+Eki84ityS8+svQIrckvPrL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKtAQgIEqgBChxpZ1daTXNKN2NRd1gxOERmRHJYUVA3cUhBWUU9EiQ2ZDc5ZTZkNS02YzhlLTQ2YjMtODk1ZC0wZjhjNTRhMGI3MGEYACAAKAAw0ofA1McwOMuLwNTHMEDLi8DUxzBKHEdUTHlDY0ZRTmxLQjZIN3l5Zzc4R0VIQlRCbz1aHyIduytiQ040RXR2MUx0QmgrSXl1TFRWSS81bnlxaz1lAAAAAMI+AmAFMAA4AA==",
+   "version": 1
+}
